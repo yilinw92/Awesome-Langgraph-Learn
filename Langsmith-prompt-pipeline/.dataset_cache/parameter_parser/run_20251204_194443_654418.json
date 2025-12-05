@@ -1,0 +1,21 @@
+{
+  "prompt_name": "parameter_parser",
+  "dataset_name": "parameter_parser",
+  "timestamp": "2025-12-04T19:44:43.654456",
+  "run_id": "019aebf7-de27-7572-a14f-6eb1855e7da4",
+  "inputs": {
+    "user_query": "How to improve the chemical polishability of copper (red copper) parts"
+  },
+  "outputs": {
+    "topic": "提高铜（红铜）零件的化学抛光性",
+    "year_range": "2023-2024",
+    "style": "formal",
+    "depth": "medium",
+    "focus_areas": "化学抛光工艺,表面处理技术,材料配方与添加剂",
+    "metadata": {}
+  },
+  "metadata": {
+    "prompt_version": "hub-20251101-163124"
+  },
+  "synced": false
+}
